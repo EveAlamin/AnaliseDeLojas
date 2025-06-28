@@ -44,4 +44,4 @@ O relatório final está incluído no notebook e traz uma síntese completa das 
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/EveAlamin/AnaliseDeLojas.git
